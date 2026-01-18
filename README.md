@@ -103,7 +103,7 @@ in high-value customers.
 
 ## 👤 Author
 **Sarthak Sarangle**  
-📍 Aspiring Data Analyst | Power BI | Data Visualization  
+📍 Data Analyst | Power BI | Data Visualization  
 
 ---
 
